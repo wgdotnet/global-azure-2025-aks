@@ -4,7 +4,4 @@ Table of contents:
 - [[Network]]
 - [[VM Images]]
 - [[Nodepool design]]
-- [[Pod Lifecycle]]
-- [[AKS Autoscaling - Nodes]]
-- [[AKS Autoscaling - Pods]]
-- 
+- [[AKS Autoscaling]]
