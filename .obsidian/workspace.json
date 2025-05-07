@@ -64,6 +64,30 @@
             }
           },
           {
+            "id": "8a4082d55585ce39",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "90780e4d3c600c1a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
             "id": "474828e915d7d0bd",
             "type": "leaf",
             "state": {
@@ -74,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AKS Networking - CNI Overlay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AKS Networking - CNI Overlay"
+              "title": "Backlinks"
             }
           },
           {
@@ -165,12 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AKS Networking - CNI Overlay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AKS Networking - CNI Overlay"
+              "title": "Outgoing links"
             }
           },
           {
@@ -191,11 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AKS Networking - CNI Overlay.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of AKS Networking - CNI Overlay"
+              "title": "Outline"
             }
           },
           {
@@ -227,15 +247,22 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "622251e64181c912",
+  "active": "90780e4d3c600c1a",
   "lastOpenFiles": [
     "AKS Legacy Networkling - Azure CNI.md",
-    "AKS Legacy Networking - Kubenet.md",
+    "AKS Cluster Design for scalable workloads.md",
+    "AKS Autoscaling - Pods.md",
+    "AKS Autoscaling - Nodes.md",
+    "Pod Lifecycle.md",
+    "Nodepool design.md",
+    "VM Images.md",
+    "Untitled",
+    "Network.md",
     "AKS Networking - CNI Overlay.md",
+    "AKS Legacy Networking - Kubenet.md",
     "AKS Networking Model.md",
     "KEDA.md",
     "Horizontal Pod Autoscaler (HPA).md",
-    "AKS Autoscaling - Pods.md",
     "img/keda-architecture.png",
     "img",
     "Horizontal Pod Autoscaler.md"

@@ -12,7 +12,6 @@ azure-vnet-spoke: vnet {
 		k8s-pod-1: pod
 		k8s-pod-2: pod
 		k8s-pod-3: pod
-		k8s-svc-1: service
 	}
 }
 
