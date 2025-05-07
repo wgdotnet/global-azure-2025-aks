@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "118e9a5cbd8942ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "051fdd814563329f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d96d81247e3d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KEDA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KEDA"
+            }
+          },
+          {
+            "id": "2cf2efc4a37e7735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AKS Autoscaling - Pods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AKS Autoscaling - Pods"
+            }
+          },
+          {
+            "id": "0022d5e83e36a57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KEDA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KEDA"
+            }
+          },
+          {
+            "id": "474828e915d7d0bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d86117dc69346e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "494d9bec6a8e7fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5834099995a86ef8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2fbe2ffb4afd5706",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6789db4e0820de94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d8820658184d5e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c094bf20da5551e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1776889f4a850f42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "KEDA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for KEDA"
+            }
+          },
+          {
+            "id": "d447a31446c97cb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KEDA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from KEDA"
+            }
+          },
+          {
+            "id": "071578cfdf20bf96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57299c1239b4bbad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KEDA.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of KEDA"
+            }
+          },
+          {
+            "id": "ed9a6a834c5df306",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "system3-relay:Relay": false
+    }
+  },
+  "active": "57299c1239b4bbad",
+  "lastOpenFiles": [
+    "Horizontal Pod Autoscaler (HPA).md",
+    "AKS Autoscaling - Pods.md",
+    "KEDA.md",
+    "img/keda-architecture.png",
+    "img",
+    "Horizontal Pod Autoscaler.md"
+  ]
+}
