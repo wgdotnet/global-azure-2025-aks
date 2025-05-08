@@ -112,3 +112,7 @@ lifecycle:
       - -c
       - "sleep 5"
 ```
+
+## Design Considerations
+
+In order to start autoscaling the workload, the workload need to properly follow the k8s lifecycle. Probes must be utilized to ensure that the pod initializes properly. In addition we need a guarantee, that the pod will always attempt to terminate gracefully, in order not to loose any requests it may be processing. Pod termination may handle due to multiple reasons. Scaling down or Pod evictions are some of them.

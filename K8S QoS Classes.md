@@ -34,3 +34,7 @@ guaranteed: Guaranteed {
 	shape: step
 }
 ```
+
+## Design Choices
+
+In order to ensure workload stability, a compromise choice needs to be made in order to select the QoS class which will be used by the workload. `Guaranteed` QoS class will ensure the most stability, at the expense of overprovisioned resources. `Burstable` seems like a compromise solution, however it can potentially end with evictions. `BestEffort` is not recommended in general, as the least stable solution.
