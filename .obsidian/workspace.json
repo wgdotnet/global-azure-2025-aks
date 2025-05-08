@@ -119,14 +119,10 @@
             "id": "27618540ec63d172",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K8S Pod Lifecycle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "K8S Pod Lifecycle"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -212,7 +208,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8S Pod Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for K8S Pod Lifecycle"
+              "title": "Backlinks"
             }
           },
           {
@@ -231,12 +226,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8S Pod Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from K8S Pod Lifecycle"
+              "title": "Outgoing links"
             }
           },
           {
@@ -257,11 +251,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "K8S Pod Lifecycle.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of K8S Pod Lifecycle"
+              "title": "Outline"
             }
           },
           {
@@ -295,22 +287,22 @@
   },
   "active": "27618540ec63d172",
   "lastOpenFiles": [
-    "K8S Pod Lifecycle.md",
+    "K8S Autoscaling - Pods.md",
+    "AKS Autoscaling.md",
+    "AKS Autoscaling - Nodes.md",
+    "AKS Cluster Design for scalable workloads.md",
+    "Nodepool design.md",
+    "Network.md",
     "K8S QoS Classes.md",
+    "KEDA.md",
+    "K8S Pod Lifecycle.md",
     "img/pod-deletion-timeline.png",
     "img/pod-deletion-sequence.png",
     "K8S Horizontal Pod Autoscaler (HPA).md",
-    "K8S Autoscaling - Pods.md",
-    "KEDA.md",
     "AKS Networking Model.md",
     "AKS Networking - CNI Overlay.md",
     "AKS Legacy Networkling - Azure CNI.md",
     "AKS Legacy Networking - Kubenet.md",
-    "Network.md",
-    "AKS Cluster Design for scalable workloads.md",
-    "AKS Autoscaling.md",
-    "AKS Autoscaling - Nodes.md",
-    "Nodepool design.md",
     "VM Images.md",
     "Untitled",
     "img/keda-architecture.png",
