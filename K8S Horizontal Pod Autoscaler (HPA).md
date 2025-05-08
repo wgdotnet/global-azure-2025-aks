@@ -1,3 +1,8 @@
+---
+tags:
+  - k8s/autoscaling
+---
+
 ```d2
 hpa: Horizontal Pod Autoscaler {
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - network
+---
+
 ## Available AKS Networking models 
 
 - [[AKS Legacy Networking - Kubenet]]

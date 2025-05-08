@@ -1,3 +1,7 @@
+---
+tags:
+  - k8s
+---
 
 ## Quality of Service classes
 

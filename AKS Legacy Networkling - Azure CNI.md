@@ -1,3 +1,8 @@
+---
+tags:
+  - network
+---
+
 ```d2
 vars: {
 	d2-config: {

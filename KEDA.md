@@ -1,3 +1,8 @@
+---
+tags:
+  - k8s/autoscaling
+---
+
 **Source:** https://keda.sh
 
 **KEDA** is Kubernetes Event Driven Autoscaler.
