@@ -105,10 +105,10 @@ The result is that the pod may still receive client requests after it has receiv
 
 ```yaml
 lifecycle:
-	preStop:
-		exec:
-			command:
-			- sh
-			- -c
-			- "sleep 5"
+  preStop:
+    exec:
+      command:
+      - sh
+      - -c
+      - "sleep 5"
 ```

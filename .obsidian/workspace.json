@@ -119,10 +119,14 @@
             "id": "27618540ec63d172",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "K8S Pod Lifecycle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K8S Pod Lifecycle"
             }
           },
           {
@@ -208,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "K8S Pod Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +222,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for K8S Pod Lifecycle"
             }
           },
           {
@@ -226,11 +231,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "K8S Pod Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from K8S Pod Lifecycle"
             }
           },
           {
@@ -251,9 +257,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "K8S Pod Lifecycle.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of K8S Pod Lifecycle"
             }
           },
           {
