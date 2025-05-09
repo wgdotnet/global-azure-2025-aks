@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8S Autoscaling - Pods.md",
+                "file": "AKS Legacy Networking - Azure CNI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8S Autoscaling - Pods"
+              "title": "AKS Legacy Networking - Azure CNI"
             }
           },
           {
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8S Autoscaling - Pods.md",
+                "file": "AKS Legacy Networking - Azure CNI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +302,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for K8S Autoscaling - Pods"
+              "title": "Backlinks for AKS Legacy Networking - Azure CNI"
             }
           },
           {
@@ -311,12 +311,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8S Autoscaling - Pods.md",
+                "file": "AKS Legacy Networking - Azure CNI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from K8S Autoscaling - Pods"
+              "title": "Outgoing links from AKS Legacy Networking - Azure CNI"
             }
           },
           {
@@ -338,10 +338,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8S Autoscaling - Pods.md"
+                "file": "AKS Legacy Networking - Azure CNI.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of K8S Autoscaling - Pods"
+              "title": "Outline of AKS Legacy Networking - Azure CNI"
             }
           },
           {
@@ -375,22 +375,23 @@
   },
   "active": "b515dd8f0bdf8b9e",
   "lastOpenFiles": [
-    "K8S - LoadBalancing.md",
-    "AKS Networking - CNI Overlay.md",
-    "AKS Legacy Networkling - Azure CNI.md",
-    "AKS Legacy Networking - Kubenet.md",
+    "AKS Networking Model.md",
+    "AKS Legacy Networking - Azure CNI.md",
+    "Workload - Capacity Planning.md",
+    "Workload.md",
+    "Workload - Metrics.md",
     "AKS Cluster Design - VM Images.md",
+    "K8S - LoadBalancing.md",
+    "K8S Horizontal Pod Autoscaler (HPA).md",
+    "K8S Autoscaling - Pods.md",
+    "AKS Networking - CNI Overlay.md",
+    "AKS Legacy Networking - Kubenet.md",
     "AKS Cluster Design - Nodepools.md",
     "AKS Cluster Design.md",
     "AKS Autoscaling - Nodes.md",
     "AKS Autoscaling.md",
     "Workload - Resource Utilization Presets.md",
-    "Workload - Metrics.md",
     "Workload - Example KEDA Prometheus Scaler Settings.md",
-    "Workload.md",
-    "AKS Networking Model.md",
-    "K8S Autoscaling - Pods.md",
-    "K8S Horizontal Pod Autoscaler (HPA).md",
     "K8S Pod Lifecycle.md",
     "K8S QoS Classes.md",
     "KEDA.md",

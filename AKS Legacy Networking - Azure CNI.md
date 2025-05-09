@@ -2,7 +2,7 @@
 tags:
   - network
 ---
-
+## Azure CNI
 ```d2
 vars: {
 	d2-config: {
@@ -59,3 +59,9 @@ azure-vnet*.label.near: bottom-right
 > ==This approach requires more planning, and often leads to IP address exhaustion or the need to rebuild clusters in a larger subnet as your application demands grow.==
 
 With Azure CNI Node Subnet, each pod receives an IP address in the IP subnet and can communicate directly with other pods and services. Your clusters can be as large as the IP address range you specify. However, you must plan the IP address range in advance, and all the IP addresses are consumed by the AKS nodes based on the maximum number of pods they can support. Advanced network features and scenarios such as [virtual nodes](https://learn.microsoft.com/en-us/azure/aks/virtual-nodes-cli) or Network Policies (either Azure or Calico) are supported with Azure CNI.
+
+## Discussion (5m): POD LIMIT
+
+> **Question**s
+> - How would you specify the pod limit for your nodes? Should you stick with well-known defaults such as 110?
+> - What are the consequences of specifying the pod limit?

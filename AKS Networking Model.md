@@ -6,7 +6,7 @@ tags:
 ## Available AKS Networking models 
 
 - [[AKS Legacy Networking - Kubenet]]
-- [[AKS Legacy Networkling - Azure CNI]]
+- [[AKS Legacy Networking - Azure CNI]]
 - [[AKS Networking - CNI Overlay]]
 
 ## Summary
