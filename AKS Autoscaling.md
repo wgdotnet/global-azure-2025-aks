@@ -8,7 +8,9 @@ A refresher on basic k8s topics is required in order to understand how the pods 
 
 - [[K8S Pod Lifecycle]]
 - [[K8S QoS Classes]]
+- [[K8S - LoadBalancing]]
 
 ## Autoscaling 
+
 - [[K8S Autoscaling - Pods]]
 - [[AKS Autoscaling - Nodes]]
