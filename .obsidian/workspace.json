@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKS Autoscaling.md",
+                "file": "K8S Autoscaling - Pods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AKS Autoscaling"
+              "title": "K8S Autoscaling - Pods"
             }
           },
           {
@@ -292,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AKS Autoscaling.md",
+                "file": "K8S Autoscaling - Pods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +302,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AKS Autoscaling"
+              "title": "Backlinks for K8S Autoscaling - Pods"
             }
           },
           {
@@ -311,12 +311,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AKS Autoscaling.md",
+                "file": "K8S Autoscaling - Pods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AKS Autoscaling"
+              "title": "Outgoing links from K8S Autoscaling - Pods"
             }
           },
           {
@@ -338,10 +338,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AKS Autoscaling.md"
+                "file": "K8S Autoscaling - Pods.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AKS Autoscaling"
+              "title": "Outline of K8S Autoscaling - Pods"
             }
           },
           {
@@ -375,20 +375,20 @@
   },
   "active": "b515dd8f0bdf8b9e",
   "lastOpenFiles": [
+    "K8S - LoadBalancing.md",
+    "AKS Networking - CNI Overlay.md",
+    "AKS Legacy Networkling - Azure CNI.md",
+    "AKS Legacy Networking - Kubenet.md",
+    "AKS Cluster Design - VM Images.md",
+    "AKS Cluster Design - Nodepools.md",
+    "AKS Cluster Design.md",
+    "AKS Autoscaling - Nodes.md",
+    "AKS Autoscaling.md",
     "Workload - Resource Utilization Presets.md",
     "Workload - Metrics.md",
     "Workload - Example KEDA Prometheus Scaler Settings.md",
     "Workload.md",
-    "AKS Autoscaling.md",
-    "AKS Autoscaling - Nodes.md",
-    "AKS Cluster Design.md",
-    "AKS Cluster Design - Nodepools.md",
-    "AKS Cluster Design - VM Images.md",
-    "AKS Legacy Networking - Kubenet.md",
-    "AKS Legacy Networkling - Azure CNI.md",
-    "AKS Networking - CNI Overlay.md",
     "AKS Networking Model.md",
-    "K8S - LoadBalancing.md",
     "K8S Autoscaling - Pods.md",
     "K8S Horizontal Pod Autoscaler (HPA).md",
     "K8S Pod Lifecycle.md",
