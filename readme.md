@@ -6,10 +6,10 @@ tags:
 
 ![[global-azure.png]]
 
-This workshop/lecture is delivered by https://wgdotnet as a part of [Global Azure 2025](https://globalazurepoland.net/)
-The contents are and always will be free and public
+This workshop/lecture is delivered by[ Maciej Misztal](https://www.linkedin.com/in/maciej-misztal-bb424221/), on behalf of  https://wgdotnet as a part of [Global Azure 2025](https://globalazurepoland.net/)
 
-
+> **⚠️ Note** 
+> The contents are and always will be free and public
 
 ## Contents
 

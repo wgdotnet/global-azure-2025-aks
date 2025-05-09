@@ -84,14 +84,11 @@ With _kubenet_, only the nodes receive an IP address in the virtual network sub
 **When to Use Kubenet:**
 
 - When IP address space is constrained.
-    
 - When advanced Azure networking features are not required.
-    
 - For smaller clusters or development environments.
     
 
 **When Not to Use Kubenet:**
 
 - When you need direct pod IP integration with Azure VNet.
-    
 - When you require Azure network policies, virtual nodes, or support for Windows nodes.
