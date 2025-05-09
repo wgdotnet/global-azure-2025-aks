@@ -1,3 +1,8 @@
+---
+tags:
+  - workload
+---
+
 ## General QoS class remarks
 
 In order to ensure optimal workload behavior, the workload should utilize at least the `Burstable` QoS class.

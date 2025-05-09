@@ -67,10 +67,14 @@
             "id": "b515dd8f0bdf8b9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Workload.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workload"
             }
           },
           {
@@ -288,6 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Workload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +302,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Workload"
             }
           },
           {
@@ -306,11 +311,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Workload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Workload"
             }
           },
           {
@@ -331,9 +337,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Workload.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Workload"
             }
           },
           {
@@ -367,6 +375,7 @@
   },
   "active": "b515dd8f0bdf8b9e",
   "lastOpenFiles": [
+    "Workload - Resource Utilization Presets.md",
     "Workload - Capacity Planning.md",
     "AKS Networking Model.md",
     "AKS Cluster Design - VM Images.md",
@@ -382,7 +391,6 @@
     "AKS Cluster Design.md",
     "AKS Autoscaling - Nodes.md",
     "AKS Autoscaling.md",
-    "Workload - Resource Utilization Presets.md",
     "Workload - Example KEDA Prometheus Scaler Settings.md",
     "K8S Pod Lifecycle.md",
     "K8S QoS Classes.md",
