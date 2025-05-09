@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 13917398
       }
+    },
+    {
+      "query": "tag:#workload",
+      "color": {
+        "a": 1,
+        "rgb": 6084296
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 15.0138346354167,
   "linkStrength": 1,
   "linkDistance": 113,
-  "scale": 1.3949128857984623,
-  "close": true
+  "scale": 1.3349670089573904,
+  "close": false
 }

@@ -23,3 +23,5 @@ This workshop/lecture is delivered by[ Maciej Misztal](https://www.linkedin.com/
 - [[Network]]
 - [[AKS Cluster Design]]
 - [[AKS Autoscaling]]
+- [[Workload]]
+
