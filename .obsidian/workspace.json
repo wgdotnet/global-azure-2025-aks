@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AKS Cluster Design - Nodepools.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AKS Cluster Design - Nodepools"
+              "title": "readme"
             }
           }
         ],
@@ -185,12 +185,12 @@
   },
   "active": "a983bc38ded195b2",
   "lastOpenFiles": [
+    "AKS Cluster Design - Nodepools.md",
     "Network.md",
     "AKS Autoscaling.md",
     "K8S Pod Lifecycle.md",
     "AKS Cluster Design.md",
     "AKS Cluster Design - VM Images.md",
-    "AKS Cluster Design - Nodepools.md",
     "AKS Networking Model.md",
     "AKS Networking - CNI Overlay.md",
     "AKS Legacy Networking - Azure CNI.md",

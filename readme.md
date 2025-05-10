@@ -18,6 +18,9 @@ This workshop/lecture is delivered by[ Maciej Misztal](https://www.linkedin.com/
 - It's best to view this content using [Obsidian](https://obsidian.md/)
 - Clone the git repository, and set Obsidian's vault location to the git repository in order to access the content.
 
+> **⚠️ Note**
+> In order to be able to render the diagrams, the D2 diagramming engine needs to be installed from: https://d2lang.com/tour/install/
+
 ## Table of contents:
 
 - [[Network]]
