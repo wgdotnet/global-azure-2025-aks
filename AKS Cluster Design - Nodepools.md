@@ -10,7 +10,7 @@ This workload is provided by Microsoft and is beyond customers' control. Any att
 This is troublesome, because some of the workload's QoS classes are `Burstable` (see: [[K8S QoS Classes]]). Which may destabilize the customers' workload or make it impossible to schedule.
 
 > **Recommendation**
-> Run the contents of the `system` namespace,  in a logically separated nodepool. Additional workloads such as: prometheus, service meshes, keda, cert-manager, argocd, kyverno and any other core platform workloads should be executed there. 
+> Run the contents of the `kube-system` namespace,  in a logically separated nodepool. Additional workloads such as: prometheus, service meshes, keda, cert-manager, argocd, kyverno and any other core platform workloads should be executed there. 
 ## Example: Nodepool separation
 
 > **Discussion**
