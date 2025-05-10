@@ -75,7 +75,7 @@ readinessProbe:
 	- **preStop Hook**: if defined the preStop hook is executed for each container before SIGTERM is sent to container's process
 	- SIGTERM is sent to each container, allowing for graceful shutdown within `terminationGracePeriodSeconds`
 	- SIGKILL is sent to containers failing to terminate gracefully
-1. **Terminal States
+5. **Terminal States
 	- **Succeeded:** All containers exited successfully (exit code 0)
 	- **Failed:** At least one container existed with an error
 	- **Unknown:** Pod state cannot be determined due to node communication issues

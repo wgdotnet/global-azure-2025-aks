@@ -28,7 +28,7 @@ This is troublesome, because some of the workload's QoS classes are `Burstable` 
         "mode": "System",
         "vnetSubnetID": "<SYSTEM_SUBNET_ID>",
         "maxPods": "40",
-        "enableAutoscaling": "true",
+        "enableAutoscaling": "false",
         "orchestratorVersion": "1.33.0",
         "nodeLabels": {
 			"my-company.com/nodepool": "system",
@@ -63,8 +63,8 @@ This is troublesome, because some of the workload's QoS classes are `Burstable` 
         },
         "nodeTaints": [
         ],
-        "maxCount": 3,
-        "minCount": 7,
+        "maxCount": 7,
+        "minCount": 3,
         "availabilityZones": [
                   "1",
                   "2",

@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "051fdd814563329f",
+        "id": "2ce7145f4b246aee",
         "type": "tabs",
         "children": [
           {
-            "id": "20d96d81247e3d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "readme"
-            }
-          },
-          {
-            "id": "c0cdb5cb016629ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workload.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Workload"
-            }
-          },
-          {
-            "id": "b32f79f54daaa04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workload.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Workload"
-            }
-          },
-          {
-            "id": "c53bd84ddc63bf07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workload.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Workload"
-            }
-          },
-          {
-            "id": "b515dd8f0bdf8b9e",
+            "id": "25de7426e120758e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,73 +18,7 @@
             }
           },
           {
-            "id": "2cf2efc4a37e7735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K8S Autoscaling - Pods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "K8S Autoscaling - Pods"
-            }
-          },
-          {
-            "id": "0022d5e83e36a57c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KEDA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KEDA"
-            }
-          },
-          {
-            "id": "622251e64181c912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKS Networking - CNI Overlay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AKS Networking - CNI Overlay"
-            }
-          },
-          {
-            "id": "8a4082d55585ce39",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "90780e4d3c600c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K8S Autoscaling - Pods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "K8S Autoscaling - Pods"
-            }
-          },
-          {
-            "id": "d70e0d54756cc18c",
+            "id": "a983bc38ded195b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,71 +30,9 @@
               "icon": "lucide-file",
               "title": "K8S Pod Lifecycle"
             }
-          },
-          {
-            "id": "abf88d39cbc7277b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network"
-            }
-          },
-          {
-            "id": "27618540ec63d172",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "338f987ef2d66270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "readme"
-            }
-          },
-          {
-            "id": "f69bda04bd5b4e9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AKS Cluster Design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AKS Cluster Design"
-            }
-          },
-          {
-            "id": "474828e915d7d0bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,7 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -272,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9d8820658184d5e2",
@@ -351,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -365,37 +184,37 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "b515dd8f0bdf8b9e",
+  "active": "a983bc38ded195b2",
   "lastOpenFiles": [
+    "AKS Autoscaling.md",
+    "AKS Cluster Design.md",
+    "AKS Cluster Design - VM Images.md",
+    "AKS Cluster Design - Nodepools.md",
+    "Network.md",
+    "AKS Networking Model.md",
+    "AKS Networking - CNI Overlay.md",
+    "AKS Legacy Networking - Azure CNI.md",
+    "AKS Legacy Networking - Kubenet.md",
+    "Azure.md",
+    "readme.md",
     "Workload.md",
     "Workload - Resource Utilization Presets.md",
+    "K8S Pod Lifecycle.md",
+    "K8S Autoscaling - Pods.md",
+    "KEDA.md",
     "Workload - Capacity Planning.md",
-    "AKS Networking Model.md",
-    "AKS Cluster Design - VM Images.md",
-    "AKS Legacy Networking - Azure CNI.md",
     "Workload - Metrics.md",
     "K8S - LoadBalancing.md",
     "K8S Horizontal Pod Autoscaler (HPA).md",
-    "K8S Autoscaling - Pods.md",
-    "AKS Networking - CNI Overlay.md",
-    "AKS Legacy Networking - Kubenet.md",
-    "AKS Cluster Design - Nodepools.md",
-    "AKS Cluster Design.md",
     "AKS Autoscaling - Nodes.md",
-    "AKS Autoscaling.md",
     "Workload - Example KEDA Prometheus Scaler Settings.md",
-    "K8S Pod Lifecycle.md",
     "K8S QoS Classes.md",
-    "KEDA.md",
-    "Network.md",
-    "readme.md",
     "img/k8s-cpu-limits-vs-requests.png",
     "img/aks-cluster-autoscaler.png",
     "Pasted image 20250509022824.png",
     "img/obsidian.png",
     "img/global-azure.png",
     "img/azure-disk-io-capping.png",
-    "Untitled.md",
     "img/pod-deletion-timeline.png",
     "img/pod-deletion-sequence.png",
     "Untitled",
