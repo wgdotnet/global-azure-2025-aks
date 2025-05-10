@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8S Pod Lifecycle.md",
+                "file": "AKS Cluster Design - Nodepools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8S Pod Lifecycle"
+              "title": "AKS Cluster Design - Nodepools"
             }
           }
         ],
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +185,12 @@
   },
   "active": "a983bc38ded195b2",
   "lastOpenFiles": [
+    "Network.md",
     "AKS Autoscaling.md",
+    "K8S Pod Lifecycle.md",
     "AKS Cluster Design.md",
     "AKS Cluster Design - VM Images.md",
     "AKS Cluster Design - Nodepools.md",
-    "Network.md",
     "AKS Networking Model.md",
     "AKS Networking - CNI Overlay.md",
     "AKS Legacy Networking - Azure CNI.md",
@@ -199,7 +199,6 @@
     "readme.md",
     "Workload.md",
     "Workload - Resource Utilization Presets.md",
-    "K8S Pod Lifecycle.md",
     "K8S Autoscaling - Pods.md",
     "KEDA.md",
     "Workload - Capacity Planning.md",

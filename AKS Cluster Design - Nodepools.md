@@ -4,7 +4,7 @@ tags:
 ---
 ## The system namespace
 
-`kubectl --namespace system get pods` will list all pods running int he System namespace. 
+`kubectl --namespace kube-system get pods` will list all pods running int he System namespace. 
 This workload is provided by Microsoft and is beyond customers' control. Any attempts to modify the workload's settings will be overwritten by Microsoft's automation.
 
 This is troublesome, because some of the workload's QoS classes are `Burstable` (see: [[K8S QoS Classes]]). Which may destabilize the customers' workload or make it impossible to schedule.
